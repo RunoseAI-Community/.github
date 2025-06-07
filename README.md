@@ -1,6 +1,6 @@
 # RunoseAI: Open Source The AI Developer Platform
 
-Welcome to the RunoseAI Community Open Source Edition is a web-based user AI developer solution. Download and install it on your own servers. For free.
+Welcome to the <a href="https://runoseai.com">RunoseAI</a> Community Open Source Edition is a web-based user AI developer solution. Download and install it on your own servers. For free.
 <br>
 <br>
 RunoseAI Forum is a lively hub for creators to connect, share insights, and explore software and pipeline techniques. Stay updated with the latest news, showcase your work, and exchange creative ideas with artists and developers alike
